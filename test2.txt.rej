@@ -1,0 +1,6 @@
+diff a/test2.txt b/test2.txt	(rejected hunks)
+@@ -1,2 +0 @@
+-Test feature tạo branch mới và merge
+\ No newline at end of file
+ Hello Test 2 abxyz
+\ No newline at end of file
